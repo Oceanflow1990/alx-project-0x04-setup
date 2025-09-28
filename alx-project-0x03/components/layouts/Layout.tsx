@@ -1,6 +1,6 @@
 import Footer from "./Footer";
 import Header from "./Header";
-import { LayoutProps } from "@/interface";
+import { LayoutProps } from "@/interfaces";
 
 const Layout: React.FC<LayoutProps> = ({ children }) => {
   return (
